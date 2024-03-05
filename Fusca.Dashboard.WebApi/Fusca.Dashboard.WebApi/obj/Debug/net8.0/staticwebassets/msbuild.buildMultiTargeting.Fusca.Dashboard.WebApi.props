@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fusca.Dashboard.WebApi.props" />
+</Project>
