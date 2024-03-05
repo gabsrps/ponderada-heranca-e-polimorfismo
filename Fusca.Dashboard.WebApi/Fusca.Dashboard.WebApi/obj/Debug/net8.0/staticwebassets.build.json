@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FDY0x4pfwSEKqjGAqOe0h5wOO2O3Scd6PJ2JwIs983k=",
+  "Source": "Fusca.Dashboard.WebApi",
+  "BasePath": "_content/Fusca.Dashboard.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
