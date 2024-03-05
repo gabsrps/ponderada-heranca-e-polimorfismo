@@ -1,0 +1,43 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Dependências
+*.dll
+*.exe
+*.pdb
+*.zip
+*.nupkg
+*.dll.config
+
+# Arquivos de usuário Visual Studio
+*.user
+*.suo
+*.sln.docstates
+
+# Arquivos de log e cache
+*.log
+logs/
+*.vscode/
+
+# Arquivos temporários
+[Tt]emp/
+[Tt]est[Rr]esult*/
+[Bb]uild/
+
+# Arquivos do Rider IDE
+.idea/
+*.sln.iml
+
+# Diretórios específicos do Visual Studio
+.vs/
+
+# Pacotes
+packages/
+*.nupkg
+
+# Arquivos de configuração e segredos
+/Fusca.Dashboard.WebApi/appsettings.json
+appsettings.Development.json
+secrets.json
+/Fusca.Dashboard.WebApi/Fusca.Dashboard.WebApi/appsettings.json

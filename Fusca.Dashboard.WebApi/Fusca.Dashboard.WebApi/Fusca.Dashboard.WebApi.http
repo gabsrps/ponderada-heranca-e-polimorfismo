@@ -1,0 +1,6 @@
+@Fusca.Dashboard.WebApi_HostAddress = http://localhost:5128
+
+GET {{Fusca.Dashboard.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
